@@ -16,13 +16,14 @@
 
 ### About HASH
 
-Creators of knowledge management and decision-making tools:
-- **Þ [Block Protocol]** - open-source standard for blocks and the applications that embed them
-- **# [HASH]** - open-source, self-building database with an extensible, block-based user interface
+We create knowledge management and decision-making tools:
 
-### About this GitHub organization
+- **# [HASH]**: open-source, self-building database and platform for high-trust AI
+- **Þ [Block Protocol]**: open standard for composable user interfaces and the applications that embed them
 
-While we're primarily on GitHub at [`@hashintel`] this repository contains our public "archives". This includes [legal notices] that we're putting into the public record, as well as legacy projects and old forks that we no longer maintain.
+### About this org
+
+While we're primarily on GitHub at [`@hashintel`], this `@hasharchives` org contains our public "archives". This includes [legal notices] that we place into the public record for transparency, as well as legacy projects and old forks that we no longer maintain.
 
 ### Around the web
 
