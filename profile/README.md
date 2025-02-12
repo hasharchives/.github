@@ -1,5 +1,4 @@
 <!-- GitHub links -->
-[`@hasharchives`]: https://github.com/hasharchives
 [`@hashintel`]: https://github.com/hashintel
 [block protocol]: https://github.com/blockprotocol/blockprotocol
 [hash]: https://github.com/hashintel/hash
